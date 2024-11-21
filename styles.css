@@ -8,6 +8,15 @@ h1{
     color: darkslateblue;
 }
 
+h1:hover{
+    color:rgb(126, 14, 201)
+}
+
+h3{
+    text-align: center;
+    font-style: italic;
+}
+
 .projects {
      display:flex;
       flex-wrap:wrap;
